@@ -3,16 +3,16 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['6281251549899'] 
+global.owner = ['18315340596'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['6281251549899']
+global.kontak = ['18315340596']
 
 //  INFO BOT 
-global.naown = 'DANIXD'
-global.noown = '6281251549899'
+global.naown = 'wanzzXD'
+global.noown = '18315340596'
 global.namebot = 'FORYN FOUR'
-global.nobot = '6281352848936'
+global.nobot = '628818172681'
 
 //  URL SOSMED
 global.instagram = 'https://instagram.com/danibotz_official'
